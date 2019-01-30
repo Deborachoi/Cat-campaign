@@ -1,0 +1,41 @@
+body{
+    background-image: url("http://www.cndajin.com/data/wls/260/23573082.jpg");
+}
+h1{
+    font-size:50px;
+    background-color:grey;
+    border: dotted 5px;
+    text-align: center;
+    color:white;
+    text-shadow: 2px 2px red;
+    font-family: 'Fjalla One', sans-serif;
+}
+img{
+    height: 300px;
+    border: double;
+    border-color: white;
+    border-width: 5px;
+}
+h2{
+    color: white;
+    font-size: 25px;
+    text-shadow: 3px 2px blue;
+    font-family: 'Vollkorn', serif;
+}
+button{
+    background-color: #ff6666;
+    border-style: solid;
+    border-color: blue;
+    padding: 30px;
+}
+p{
+    font-size:18px;
+    color: white;
+    text-shadow: 3px 2px black;
+    font-family: 'Libre Baskerville', serif;
+}
+.img{
+    display:flex;
+    justify-content:center;
+}
+    
